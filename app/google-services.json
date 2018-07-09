@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "740073625731",
+    "firebase_url": "https://ainiuas.firebaseio.com",
+    "project_id": "ainiuas",
+    "storage_bucket": "ainiuas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740073625731:android:c2b08b9eb8a76681",
+        "android_client_info": {
+          "package_name": "com.example.aini.ainiuasku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740073625731-fqnmruifm37jud4p4hgt0jim95m19q8b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJG1ElNGrcLkCBmXP3WqB2A0OHJ2ElESk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
